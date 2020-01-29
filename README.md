@@ -1,4 +1,5 @@
 # **Finding Lane Lines on the Road** 
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
@@ -53,4 +54,10 @@ A browser window will appear showing the contents of the current directory.  Cli
 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+
+To easily run this you can invoke docker in the project directory with the following docker invocation.
+
+docker run -it --rm --entrypoint "/run.sh" -p 8888:8888 -v `pwd`:/src udacity/carnd-term1-starter-kit
+
+This will launch a jupyter notebook server with all of the right environmental bits inside the container.  You can then open a browser pointed at http://localhost:8888.  You will have to be copy and paste the token that is printed out to the console by the jupyter notebook server.
 
