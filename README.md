@@ -87,13 +87,13 @@ Different environmental conditions may require different parameterization and ad
 ### The final output images
 Here are the final output videos from the pipeline descibed here.
 
-solidWhiteRight.mp4
+[solidWhiteRight.mp4](test_videos_output/solidWhiteRight.mp4)
 <video src="test_videos_output/solidWhiteRight.mp4" width="380" alt="solidWhiteRight.mp4" />
 
-solidYellowLeft.mp4
+[solidYellowLeft.mp4](test_videos_output/solidYellowLeft.mp4)
 <video src="test_videos_output/solidYellowLeft.mp4" width="380" alt="solidYellowLeft.mp4" />
 
-challenge.mp4
+[challenge.mp4](test_videos_output/challenge.mp4)
 <video src="test_videos_output/challenge.mp4" width="380" alt="challenge.mp4" />
 
 ## Running the Project
