@@ -84,18 +84,6 @@ Although I'm quite impressed with how well this simple image processing pipeline
 ### 3. Suggest possible improvements to your pipeline
 Different environmental conditions may require different parameterization and additional image processing techniques to condition the images.  This would likely require some ability to dynamically detect differing conditions and have slightly different pipelines for these conditions. 
 
-### The final output images
-Here are the final output videos from the pipeline descibed here.
-
-[!solidWhiteRight.mp4](test_videos_output/solidWhiteRight.mp4)
-<video src="test_videos_output/solidWhiteRight.mp4" width="380" alt="solidWhiteRight.mp4" />
-
-[!solidYellowLeft.mp4](test_videos_output/solidYellowLeft.mp4)
-<video src="test_videos_output/solidYellowLeft.mp4" width="380" alt="solidYellowLeft.mp4" />
-
-[!challenge.mp4](test_videos_output/challenge.mp4)
-<video src="test_videos_output/challenge.mp4" width="380" alt="challenge.mp4" />
-
 ## Running the Project
 This project is in the form of a jupyter notebook hosted in the following github repository:
 
